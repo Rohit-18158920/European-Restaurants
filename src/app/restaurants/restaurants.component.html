@@ -1,0 +1,23 @@
+<div class="table-responsive-xl">
+  <table class="table">
+    <thead>
+      <tr>
+        <ng-container *ngFor="let col of thead">
+          <th scope="col">{{col}}</th>
+        </ng-container>
+      </tr>
+    </thead>
+    <tbody>
+      <ng-container *ngFor="let line of tbody | paginate: { itemsPerPage: 10, currentPage: p }">
+        <tr>
+          <ng-container *ngFor="let col of line">
+            <td>{{col}}</td>
+          </ng-container>
+        </tr>
+      </ng-container>
+    </tbody>
+  </table>
+  <div align="right">
+  <pagination-controls (pageChange)="p = $event"></pagination-controls>
+</div>
+</div>

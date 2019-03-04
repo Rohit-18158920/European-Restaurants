@@ -1,0 +1,100 @@
+Name,City,Cuisine Style,Ranking,Rating,Number of Reviews
+Martine of Martine's Table,Amsterdam,"['French', 'Dutch', 'European']",1,5,136
+De Silveren Spiegel,Amsterdam,"['Dutch', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",2,4.5,812
+La Rive,Amsterdam,"['Mediterranean', 'French', 'International', 'European', 'Vegetarian Friendly', 'Vegan Options']",3,4.5,567
+Vinkeles,Amsterdam,"['French', 'European', 'International', 'Contemporary', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4,5,564
+Librije's Zusje Amsterdam,Amsterdam,"['Dutch', 'European', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",5,4.5,316
+Ciel Bleu Restaurant,Amsterdam,"['Contemporary', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",6,4.5,745
+Zaza's,Amsterdam,"['French', 'International', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",7,4.5,1455
+Blue Pepper Restaurant And Candlelight Cruises,Amsterdam,"['Asian', 'Indonesian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",8,4.5,675
+Teppanyaki Restaurant Sazanka,Amsterdam,"['Japanese', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",9,4.5,923
+Rob Wigboldus Vishandel,Amsterdam,"['Dutch', 'Seafood', 'Fast Food']",10,4.5,450
+The Happy Bull,Amsterdam,"['American', 'Bar', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",11,4.5,295
+Gartine,Amsterdam,"['French', 'Dutch', 'International', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",12,4.5,967
+Restaurant Adam,Amsterdam,"['French', 'European', 'Central European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",13,4.5,368
+Biercafe Gollem,Amsterdam,"['Bar', 'Pub']",14,4.5,586
+Restaurant Daalder,Amsterdam,"['French', 'Dutch', 'International', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",15,4.5,1246
+Greenwoods Keizersgracht,Amsterdam,"['Dutch', 'Cafe', 'European', 'British', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",16,4.5,1391
+Omelegg - City Centre,Amsterdam,"['Dutch', 'European', 'Healthy', 'International', 'Vegetarian Friendly', 'Gluten Free Options']",17,4.5,1633
+Brasserie Ambassade,Amsterdam,"['French', 'Bar', 'International', 'European', 'Seafood', 'Vegetarian Friendly', 'Gluten Free Options']",18,4.5,958
+Sherpa Restaurant,Amsterdam,"['Indian', 'Tibetan', 'Nepali', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",19,4.5,426
+La Maschera Lillotatini,Amsterdam,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly']",20,4.5,421
+Senses Restaurant,Amsterdam,"['International', 'European']",21,4.5,1380
+MOS Amsterdam,Amsterdam,"['French', 'Dutch', 'Seafood', 'European', 'International', 'Vegetarian Friendly', 'Gluten Free Options']",22,4.5,239
+Restaurant Vlaming,Amsterdam,"['Dutch', 'European', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",23,4.5,996
+Arendsnest Dutch Beer Bar,Amsterdam,"['Dutch', 'Bar', 'Pub']",24,4.5,716
+Jacketz,Amsterdam,"['Dutch', 'European', 'Central European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",25,4.5,1958
+Greenwoods Singel,Amsterdam,"['Cafe', 'European', 'British', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",26,4.5,2360
+Bord'Eau,Amsterdam,"['French', 'International', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",27,4.5,666
+Omelegg - De Pijp,Amsterdam,"['Dutch', 'Cafe', 'European', 'Healthy', 'Central European', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",28,4.5,1642
+Harmsen,Amsterdam,"['Dutch', 'European', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",29,4.5,344
+Brasserie SenT,Amsterdam,"['Barbecue', 'French', 'Steakhouse', 'European', 'International', 'Vegetarian Friendly', 'Gluten Free Options']",30,4.5,646
+MAX Amsterdam,Amsterdam,"['European', 'Contemporary', 'Indonesian', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",31,4.5,1869
+Restaurant Argentino Luna,Amsterdam,"['Steakhouse', 'Latin', 'Barbecue', 'Argentinean', 'South American', 'Gluten Free Options']",32,4.5,821
+Lombardo's,Amsterdam,"['Barbecue', 'American', 'Grill', 'Delicatessen']",33,4.5,2052
+Midtown Grill,Amsterdam,"['Barbecue', 'American', 'Steakhouse', 'European']",34,4.5,1181
+Eatmosfera Ristorante,Amsterdam,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",35,4.5,973
+Broodje Bert,Amsterdam,"['Dutch', 'Cafe', 'European', 'Vegetarian Friendly', 'Vegan Options']",36,4.5,685
+Jacketz Nieuwendijk,Amsterdam,"['Dutch', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",37,4.5,264
+Toastable Nieuwendijk,Amsterdam,"['Dutch', 'Cafe', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",38,4.5,308
+Tales and Spirits,Amsterdam,"['Bar', 'European', 'International', 'Vegetarian Friendly']",39,4.5,697
+Krua Thai Classic Restaurant,Amsterdam,"['Asian', 'Thai', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",40,4.5,465
+Bussia,Amsterdam,"['Italian', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",41,4.5,959
+Ashoka Restaurant,Amsterdam,"['Indian', 'Nepali', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",42,4.5,718
+The Seafood Bar,Amsterdam,"['Seafood', 'European', 'Soups', 'Gluten Free Options']",43,4.5,4709
+Mossel en Gin,Amsterdam,"['Dutch', 'Seafood', 'International']",44,4.5,408
+Frens Haringhandel,Amsterdam,"['Dutch', 'Delicatessen', 'Healthy', 'Street Food', 'Seafood']",45,4.5,431
+Ivy & Bros,Amsterdam,"['Cafe', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",46,4.5,757
+B&B Lunchroom Leidsestraat,Amsterdam,"['Dutch', 'Cafe', 'European', 'Vegetarian Friendly', 'Vegan Options']",47,4.5,403
+Toastable Koningsplein,Amsterdam,"['Cafe', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",48,4.5,781
+Nader Grill Steakhouse,Amsterdam,"['Steakhouse', 'Barbecue', 'European', 'Grill', 'Vegetarian Friendly']",49,4.5,187
+Piadina Bar,Amsterdam,"['Italian', 'Bar', 'Cafe', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",50,4.5,508
+Mook Pancakes,Amsterdam,"['Dutch', 'European']",51,4.5,681
+Van Kerkwijk,Amsterdam,"['Dutch', 'European', 'Diner', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",52,4.5,1995
+d&a hummus bistro,Amsterdam,"['Mediterranean', 'Healthy', 'Street Food', 'Lebanese', 'Middle Eastern', 'Israeli', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",53,4.5,414
+De Kas,Amsterdam,"['Dutch', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",54,4.5,1573
+Eetcafe Singel 404,Amsterdam,"['Dutch', 'Cafe', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",55,4.5,490
+De Struisvogel,Amsterdam,"['French', 'Dutch', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",56,4.5,517
+Restaurant Johannes,Amsterdam,"['French', 'European', 'International', 'Vegetarian Friendly', 'Gluten Free Options']",57,4.5,1065
+The Seafood Bar Ferdinand Bol,Amsterdam,"['Seafood', 'European', 'Gluten Free Options']",58,4.5,348
+Guts & Glory,Amsterdam,"['International', 'European', 'Vegetarian Friendly']",59,4.5,555
+Thai Phutakun,Amsterdam,"['Asian', 'Thai', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",60,4.5,530
+Bakers & Roasters,Amsterdam,"['New Zealand', 'Cafe', 'European', 'Contemporary', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",61,4.5,1091
+FuLu Mandarijn Amsterdam,Amsterdam,"['Chinese', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",62,4.5,1801
+Pesca,Amsterdam,"['Dutch', 'Seafood', 'Mediterranean', 'Gluten Free Options']",63,4.5,756
+De Reiger,Amsterdam,"['Dutch', 'Bar', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",64,4.5,530
+The Pantry,Amsterdam,"['Dutch', 'European', 'Central European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",65,4.5,2428
+C,Amsterdam,"['International', 'European', 'Vegetarian Friendly', 'Gluten Free Options', 'Vegan Options']",66,4.5,289
+The Lobby Nesplein Restaurant & Bar,Amsterdam,"['Dutch', 'European', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",67,4.5,838
+Hap-Hmm,Amsterdam,"['Dutch', 'European', 'Vegetarian Friendly']",68,4.5,510
+The Seafood Bar Spui,Amsterdam,"['Seafood', 'European', 'Gluten Free Options']",69,4.5,1209
+La Zoccola del Pacioccone Pizzeria,Amsterdam,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",70,4.5,1098
+JUN Indonesian Cuisine,Amsterdam,"['Asian', 'Indonesian', 'Vegetarian Friendly', 'Vegan Options']",71,4.5,416
+Sugo Amsterdam,Amsterdam,"['Pizza', 'Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",72,4.5,445
+Burger Bar,Amsterdam,"['American', 'Bar', 'Fast Food']",73,4.5,748
+Restaurant BREDA,Amsterdam,"['French', 'Dutch', 'European', 'International', 'Vegetarian Friendly', 'Gluten Free Options']",74,4.5,331
+Hemelse Modder,Amsterdam,"['Dutch', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",75,4.5,562
+Prins Heerlijk,Amsterdam,"['Dutch', 'Cafe', 'International', 'European', 'Vegetarian Friendly', 'Vegan Options']",76,4.5,425
+Taj Indian,Amsterdam,"['Indian', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",77,4.5,1415
+Bistrot Neuf Amsterdam,Amsterdam,"['French', 'European', 'Vegetarian Friendly']",78,4.5,546
+Vlaams Friteshuis Vleminckx,Amsterdam,"['Belgian', 'Dutch', 'Fast Food', 'Vegetarian Friendly', 'Vegan Options']",79,4.5,1313
+Bagels & Beans,Amsterdam,"['American', 'Cafe', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",80,4.5,1294
+Cafe Piazza,Amsterdam,"['Italian', 'Pizza', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",81,4.5,681
+Restaurant RED,Amsterdam,"['Steakhouse', 'Seafood', 'European', 'International']",82,4.5,1113
+De Belhamel,Amsterdam,"['French', 'Dutch', 'European', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",83,4.5,1170
+Barbeque Castell,Amsterdam,"['Steakhouse', 'Barbecue', 'European', 'Gluten Free Options']",84,4.5,706
+Seasons Restaurant,Amsterdam,"['Dutch', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",85,4.5,1470
+Burger Bar,Amsterdam,"['American', 'Fast Food']",86,4.5,1379
+Ava Cyril,Amsterdam,"['Steakhouse', 'Italian', 'Pizza', 'Seafood', 'Vegetarian Friendly', 'Gluten Free Options']",87,4.5,377
+Restaurant Lt. Cornelis,Amsterdam,"['Dutch', 'European', 'Central European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",88,4.5,374
+Restaurant Tomaz,Amsterdam,"['Dutch', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",89,4.5,909
+Koh-i-Noor,Amsterdam,"['Indian', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",90,4.5,1654
+Cannibale Royale,Amsterdam,"['American', 'Steakhouse', 'Bar', 'Barbecue', 'European', 'Grill', 'Gluten Free Options']",91,4.5,888
+Cafe de Klos,Amsterdam,"['American', 'Steakhouse', 'Dutch', 'Bar', 'Barbecue', 'European']",92,4.5,1833
+Van Speyk,Amsterdam,"['French', 'Dutch', 'European', 'Central European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",93,4.5,1129
+Foodhallen,Amsterdam,"['Asian', 'Italian', 'French', 'American', 'Indian', 'Dutch', 'Bar', 'Seafood', 'Fast Food', 'Mediterranean', 'Sushi', 'European', 'Spanish', 'Korean', 'Turkish', 'Grill', 'Vietnamese', 'Street Food', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",94,4.5,1480
+stout,Amsterdam,"['Dutch', 'European', 'International', 'Vegetarian Friendly', 'Gluten Free Options', 'Vegan Options']",95,4.5,508
+Venus & Adonis,Amsterdam,"['French', 'Dutch', 'International', 'European', 'Grill', 'Steakhouse', 'Vegetarian Friendly', 'Gluten Free Options']",96,4.5,496
+Vegan Junk Food Bar,Amsterdam,"['American', 'Bar', 'Fast Food', 'European', 'Pub', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",97,4.5,94
+Norling Restaurant Amsterdam,Amsterdam,"['Tibetan', 'Nepali', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",98,4.5,637
+Pasta e Basta,Amsterdam,"['Italian', 'International', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",99,4.5,867
